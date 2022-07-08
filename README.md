@@ -3,7 +3,7 @@
 Aim - To build a machine learning model which classifies music into its respective genre.
 
 Introduction -
-Intrigued by the audio domain, we decided to pick up this project, wherein we have to classify different songs belonging to differrent genres to their respective genres using deep learning models.
+Intrigued by the audio domain, we decided to pick up this project, wherein we have to classify different songs belonging to different genres to their respective genres using deep learning models.
 Before moving ahead, let's talk about the challenges to work with audio data. First and foremost , it is not possible to visualize an audio file, that is we can't represent the audio file in like a graph.
 
 To start with processing, we need to first understand what audio signal is.
